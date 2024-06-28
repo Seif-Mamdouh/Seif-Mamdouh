@@ -7,7 +7,7 @@
 
 - 👨‍💻 Portfolio [seifmamdouh.com](seifmamdouh.com)
 
-- 📝 I regularly write articles on [Meduim](https://medium.com/@seifmamdouh7878)
+- 📝 I regularly write articles on [Medium](https://medium.com/@seifmamdouh7878)
 
 - 🤝 LinkdIn: [Seif Mamdouh](https://www.linkedin.com/in/seif-mamdouh/)
 
