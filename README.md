@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Rust**
 
-- 👨‍💻 Portfolio [seifmamdouh.com](seifmamdouh.com)
+- 👨‍💻 Portfolio [seifmamdouh](seifmamdouh.com)
 
 - 📝 I regularly write articles on [Medium](https://medium.com/@seifmamdouh7878)
 
