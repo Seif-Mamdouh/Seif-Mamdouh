@@ -9,6 +9,8 @@
 
 - 📝 I regularly write articles on [https://medium.com/@seifmamdouh7878](https://medium.com/@seifmamdouh7878)
 
+- 🤝 LinkdIn: [Seif Mamdouh](https://www.linkedin.com/in/seif-mamdouh/)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
