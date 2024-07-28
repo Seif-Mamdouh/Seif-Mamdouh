@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm Seif Madouh</h1>
 <h3 align="left">Software Engineer in NYC Area</h3>
 
-- 🔭 I’m currently working on [knowledge](https://github.com/coreyja/knowledge)
+- 🔭 I’m currently working on [Toys](https://github.com/coreyja/toys) && [Cookd](https://cookd.dev/?author=Seif-Mamdouh)
 
 - 🌱 I’m currently learning **Rust**
 
