@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Cookd](https://cookd.dev/?author=Seif-Mamdouh)
 
-- 🌱 I’m currently learning **Rust**
+- 🌱 I’m currently playing around with [React-Query](https://tanstack.com/query/v3)
 
 - 👨‍💻 Portfolio [seifmamdouh](https://www.seifmamdouh.com/)
 
