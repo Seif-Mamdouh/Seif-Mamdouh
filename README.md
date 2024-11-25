@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Cookd](https://cookd.dev/?author=Seif-Mamdouh)
 
-- 🌱 I’m currently playing around with Rust ⚙️
+- 🌱 Learning Rust ⚙️
 
 - 👨‍💻 Portfolio [seifmamdouh](https://www.seifmamdouh.com/)
 
