@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm Seif Madouh</h1>
+<h1 align="left">Hi 👋, I'm Seif Mamdouh</h1>
 <h3 align="left">Software Engineer in NYC Area</h3>
 
 - 🔭 I’m currently working on [Cookd](https://cookd.dev/?author=Seif-Mamdouh)
