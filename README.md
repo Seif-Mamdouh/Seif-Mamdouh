@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm Seif Mamdouh</h1>
 <h3 align="left">Software Engineer in NYC </h3>
 
-- 👨‍💻 Currently working on [git-ai-commit](https://github.com/the-cafe/git-ai-commit)
+- 👨‍💻 Currently working on [git-ai-commit](https://github.com/the-cafe/git-ai-commit) && knawledge
 
 - 🌱 I somtimes mess around with Rust ⚙️
 
