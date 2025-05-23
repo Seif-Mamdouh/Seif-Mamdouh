@@ -9,6 +9,6 @@
 
 - 🤝 LinkedIn: [Seif Mamdouh](https://www.linkedin.com/in/seif-mamdouh/)
 
-- Prev Chefed up
+- 🍽️ Prev Chefed up
   - [KnoweledgeAI](https://knowledge2.vercel.app/)
   - [YT-Extractor](https://extract.coreyja.wtf/)
