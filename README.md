@@ -10,5 +10,5 @@
 - 🤝 LinkedIn: [Seif Mamdouh](https://www.linkedin.com/in/seif-mamdouh/)
 
 - 🍽️ Recently Chefed up
-  - [KnoweledgeAI](https://knowledge2.vercel.app/)
+  - [KnowledgeAI](https://knowledge2.vercel.app/)
   - [YT-Extractor](https://extract.coreyja.wtf/)
