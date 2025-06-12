@@ -10,6 +10,7 @@
 - 🤝 LinkedIn: [Seif Mamdouh](https://www.linkedin.com/in/seif-mamdouh/)
 
 - 🍽️ Recently Chefed up
+  - [AI SEO](https://scan-med-spas.vercel.app/)
   - [KnowledgeAI](https://knowledge2.vercel.app/)
   - [YT-Extractor](https://extract.coreyja.wtf/)
   - [AI-Autobroker](https://nextjs-boilerplate-seif-mamdouhs-projects.vercel.app/) 
