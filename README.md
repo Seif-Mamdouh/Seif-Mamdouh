@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm Seif Mamdouh</h1>
 <h3 align="left">Software Engineer in NYC </h3>
 
-- 👨‍🍳 Currently cooking @RecuraAI
+- 👨‍🍳 Cooking Healthc(AI)re Voice Agents @RecuraAI
 
 - 👨‍💻 Portfolio [seifmamdouh](https://www.seifmamdouh.com/)
 
