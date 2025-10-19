@@ -5,7 +5,7 @@
 
 - 👨‍💻 Portfolio [seifmamdouh](https://www.seifmamdouh.com/)
 
-- 📝 I write articles on [Medium](https://medium.com/@seifmamdouh7878)
+- 📝 I write articles on [Blogs](https://www.seifmamdouh.com/blogs)
 
 - 🤝 LinkedIn: [Seif Mamdouh](https://www.linkedin.com/in/seif-mamdouh/)
 
