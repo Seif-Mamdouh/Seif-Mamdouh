@@ -1,7 +1,4 @@
-<h1 align="left">Hi 👋, I'm Seif Mamdouh</h1>
-<h3 align="left"> I cook Healthc(AI)re agents in NYC </h3>
-
-- 👨‍🍳 Cooking Healthc(AI)re Voice Agents @RecuraAI
+<h1 align="left"> I cook Healthc(AI)re agents in NYC </h1>
 
 - 👨‍💻 Portfolio [seifmamdouh](https://www.seifmamdouh.com/)
 
