@@ -2,7 +2,7 @@
 
 - 👨‍💻 Portfolio [seifmamdouh](https://www.seifmamdouh.com/)
 
-- 📝 I write articles on [Blogs](https://www.seifmamdouh.com/blogs)
+- 📝 I write articles on [Blogs](https://www.seifmamdouh.com/blog/mini-ai-harness-part1/)
 
 - 🤝 LinkedIn: [Seif Mamdouh](https://www.linkedin.com/in/seif-mamdouh/)
 
