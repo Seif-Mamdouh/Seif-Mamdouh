@@ -1,4 +1,4 @@
-<h1 align="left"> Smart Models, dumb interfaces. I fix the second part in NYC 🗽 </h1>
+<h1 align="left"> Smart Models, dumb interfaces. </br>I fix the second part in NYC 🗽 </h1>
 
 - 👨‍💻 Portfolio [seifmamdouh](https://www.seifmamdouh.com/)
 
